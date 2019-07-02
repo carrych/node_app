@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'justanotherhand-regular-webfont';
+    src: url('../fonts/justanotherhand-regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/justanotherhand-regular-webfont.woff') format('woff'),
+    url('../fonts/justanotherhand-regular-webfont.ttf') format('truetype'),
+    url('../fonts/justanotherhand-regular-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
